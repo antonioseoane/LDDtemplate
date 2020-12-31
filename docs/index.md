@@ -1,15 +1,15 @@
 # Level Design Example: DemoLevel
 
-# Description
-# Story
-# Mechanics
-# Characters
+## Description
+## Story
+## Mechanics
+## Characters
 * Hero CHR: Shinbi
-# Mood
-## Visual inspiration
-# Visual Themes
-# Map
-# Gameflow
+## Mood
+### Visual inspiration
+## Visual Themes
+## Map
+## Gameflow
 
 ## Welcome to GitHub Pages
 
