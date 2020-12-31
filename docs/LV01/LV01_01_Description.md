@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # LV01: *DemoLevel* Map
 
 ![Map](url)
