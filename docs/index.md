@@ -1,9 +1,8 @@
 # Level Design Example: DemoLevel
 
+{% include list.liquid all=true %}
 
-## Description
 
-## Story
 
 ## Mechanics
 
@@ -22,14 +21,3 @@
 
 ## Gameflow
 
-## Welcome to GitHub Pages
-
-- list
-- list
-
-[Link](url)
-
-![Image](url)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
