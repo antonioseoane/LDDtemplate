@@ -17,6 +17,9 @@
 
 ## Map
 
+[Fullmap](demolevelmap.md)
+
+
 ## Gameflow
 
 ## Welcome to GitHub Pages
