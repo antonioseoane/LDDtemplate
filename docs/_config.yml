@@ -1,2 +1,10 @@
 #theme: jekyll-theme-slate
+
+title: Demo Level
+description: Game Demo Level
+
 remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true 
+  
