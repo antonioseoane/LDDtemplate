@@ -1,3 +1,16 @@
+# Level Design Example: DemoLevel
+
+# Description
+# Story
+# Mechanics
+# Characters
+* Hero CHR: Shinbi
+# Mood
+## Visual inspiration
+# Visual Themes
+# Map
+# Gameflow
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/antonioseoane/antonioseoane.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
