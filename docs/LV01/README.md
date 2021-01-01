@@ -13,5 +13,4 @@ title: LV01: DemoLevel
 
 ![Assets Folder](url)
 
-
 {% include list.liquid all=true %}
