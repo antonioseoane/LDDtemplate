@@ -1,5 +1,5 @@
 ---
-ort: 5
+sort: 5
 ---
 
 # LV01: *DemoLevel* Weapons

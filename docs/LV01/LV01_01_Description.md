@@ -1,5 +1,7 @@
 ---
+title: Map
 sort: 1
+page.title: TheMap
 ---
 
 # LV01: *DemoLevel* Map
