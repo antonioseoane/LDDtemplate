@@ -8,3 +8,5 @@ remote_theme: rundocs/jekyll-rtd-theme
 readme_index:
   with_frontmatter: true 
   
+mermaid:
+  custom: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
