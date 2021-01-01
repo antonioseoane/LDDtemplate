@@ -1,5 +1,6 @@
 ---
 sort: 8
+title: Map
 ---
 
 # LV01: *DemoLevel* Map
