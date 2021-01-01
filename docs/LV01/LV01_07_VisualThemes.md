@@ -1,9 +1,9 @@
 ---
-sort: 3
-title: Objectives
+sort: 7
+title: Visual Themes
 ---
 
-# LV01: *DemoLevel* Objectives
+# LV01: *DemoLevel* Visual Themes
 
 | # | Name | Description
 | - | ---- | -----------
@@ -11,6 +11,10 @@ title: Objectives
 | 2 | ... | ...
 | 3 | ... | ...
 | 4 | ... | ...
+
+## Theme X
+
+### Inspiration references
 
 
 ```note

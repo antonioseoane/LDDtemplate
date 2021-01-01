@@ -3,15 +3,14 @@ sort: 1
 title: Description
 ---
 
-# LV01: *DemoLevel* Map
+# LV01: *DemoLevel* Description
 
-![Map](url)
+## Title
 
-### Objectives
+## Feel
 
-| # | Name | Description
-| - | ---- | -----------
-| 1 | ... | ...
-| 2 | ... | ...
-| 3 | ... | ...
-| 4 | ... | ...
+```note
+### Note
+
+Pending
+```
