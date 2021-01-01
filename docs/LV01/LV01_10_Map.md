@@ -16,6 +16,11 @@ title: Map
 | 3 | ... | ...
 | 4 | ... | ...
 
+```mermaid
+graph TD
+    A(Obj 1) -->B(Obj 2)
+    B(Obj 2) -->C(Obj 3)
+```
 
 ```note
 ### Note
