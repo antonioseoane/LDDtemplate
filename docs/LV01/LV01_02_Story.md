@@ -5,14 +5,13 @@ title: Story
 
 # LV01: *DemoLevel* Story
 
-## Plot
-
-## Outcome
-
-
 ```note
 ### Note
 
 Pending
 ```
+
+## Plot
+
+## Outcome
 

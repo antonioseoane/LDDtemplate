@@ -5,6 +5,12 @@ title: Map
 
 # LV01: *DemoLevel* Map
 
+```note
+### Note
+
+Pending
+```
+
 ![Map](url)
 
 ### Objectives
@@ -22,9 +28,4 @@ graph LR
     B((Obj 2)) -->C((Obj 3))
 ```
 
-```note
-### Note
-
-Pending
-```
 

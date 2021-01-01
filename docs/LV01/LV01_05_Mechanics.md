@@ -5,6 +5,12 @@ title: Mechanics
 
 # LV01: *DemoLevel* Mechanics
 
+```note
+### Note
+
+Pending
+```
+
 ## Camera
 
 ## Movement
@@ -16,12 +22,5 @@ title: Mechanics
 ## Platforms
 
 ## Puzzles
-
-
-```note
-### Note
-
-Pending
-```
 
 

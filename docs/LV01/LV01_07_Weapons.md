@@ -5,7 +5,6 @@ title: Weapons
 
 # LV01: *DemoLevel* Weapons
 
-
 ```note
 ### Note
 

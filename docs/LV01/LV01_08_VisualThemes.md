@@ -5,6 +5,12 @@ title: Visual Themes
 
 # LV01: *DemoLevel* Visual Themes
 
+```note
+### Note
+
+Pending
+```
+
 | # | Name | Description
 | - | ---- | -----------
 | 1 | ... | ...
@@ -15,11 +21,4 @@ title: Visual Themes
 ## Theme X
 
 ### Inspiration references
-
-
-```note
-### Note
-
-Pending
-```
 

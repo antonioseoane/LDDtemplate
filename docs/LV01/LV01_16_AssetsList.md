@@ -5,6 +5,12 @@ title: Assets List
 
 # LV01: *DemoLevel* Assets List
 
+```note
+### Note
+
+Pending
+```
+
 ## 3D Assets
 
 ### Static Meshes
@@ -28,9 +34,3 @@ title: Assets List
 ### SFX
 ### Dialogs/narrator
 
-
-```note
-### Note
-
-Pending
-```

@@ -5,13 +5,12 @@ title: Characters
 
 # LV01: *DemoLevel* Characters
 
-* Hero CHR: **Shinbi**
-
-
 ```note
 ### Note
 
 Pending
 ```
+
+* Hero CHR: **Shinbi**
 
 

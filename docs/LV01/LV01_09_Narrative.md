@@ -5,6 +5,12 @@ title: Narrative
 
 # LV01: *DemoLevel* Narrative
 
+```note
+### Note
+
+Pending
+```
+
 ## Cinematics
 
 ## Dialogs
@@ -12,11 +18,4 @@ title: Narrative
 ## Narrator
 
 ## Enviromental Narrative
-
-
-```note
-### Note
-
-Pending
-```
 

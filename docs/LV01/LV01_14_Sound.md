@@ -5,6 +5,12 @@ title: Sound
 
 # LV01: *DemoLevel* Sound
 
+```note
+### Note
+
+Pending
+```
+
 ## Mood
 
 ## Background Music
@@ -15,12 +21,6 @@ title: Sound
 
 ## Narrator
 
-
-```note
-### Note
-
-Pending
-```
 
 
 
